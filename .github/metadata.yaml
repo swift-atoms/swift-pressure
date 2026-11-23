@@ -1,0 +1,8 @@
+description: "Pressure for Swift: force per area, in pascals, as a kind of quantity."
+topics:
+  - primitives
+  - quantity
+  - physics
+homepage: "https://swift-institute.org"
+readme:
+  family: E
